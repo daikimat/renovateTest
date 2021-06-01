@@ -2,6 +2,7 @@
 # platform :ios, '9.0'
 source 'https://cdn.cocoapods.org/'
 source 'https://github.com/NotExistRepo/PrivateSpecs.git'
+platform :ios, '12.0'
 
 target 'RenovateTest' do
   # Comment the next line if you don't want to use dynamic frameworks
