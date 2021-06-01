@@ -1,8 +1,4 @@
 {
-  "timezone": "Japan",
-  "schedule": [
-    "after 05:55pm"
-  ],
   "labels": [
     "dependencies"
   ]
