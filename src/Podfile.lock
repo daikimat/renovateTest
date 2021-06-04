@@ -1,5 +1,5 @@
 PODS:
-  - AttachmentInput (0.0.4):
+  - AttachmentInput (0.0.5):
     - RxCocoa
     - RxDataSources
     - RxSwift
@@ -20,7 +20,7 @@ PODS:
     - RxSwift (= 6.1.0)
 
 DEPENDENCIES:
-  - AttachmentInput (= 0.0.4)
+  - AttachmentInput (= 0.0.5)
   - Nimble (= 9.0.0)
   - Quick (= 3.1.2)
   - RxTest (= 6.1.0)
@@ -38,7 +38,7 @@ SPEC REPOS:
     - RxTest
 
 SPEC CHECKSUMS:
-  AttachmentInput: ccbd13557209c328379fff5e0a10f0d26ccf78a7
+  AttachmentInput: 161aac0122bdad1c213b6a1c19395807042fea59
   Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
   Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
   Quick: 60f0ea3b8e0cfc0df3259a5c06a238ad8b3c46e0
@@ -48,6 +48,6 @@ SPEC CHECKSUMS:
   RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
   RxTest: 9d26616eaff4a7e75f4ecae9b2c24840f2e8218d
 
-PODFILE CHECKSUM: 8b242213a36e575a5549f9ad232a5e799826cd0b
+PODFILE CHECKSUM: 8476c4d05c3412e4365ea5f19d075165aabe5e3c
 
 COCOAPODS: 1.10.1

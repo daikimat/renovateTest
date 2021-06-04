@@ -9,7 +9,7 @@ target 'RenovateTest' do
   use_frameworks!
 
   # Pods for RenovateTest
-  pod 'AttachmentInput', '0.0.4' 
+  pod 'AttachmentInput', '0.0.5' 
 
   target 'RenovateTestTests' do
     inherit! :search_paths
