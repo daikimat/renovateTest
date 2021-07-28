@@ -20,10 +20,10 @@ PODS:
     - RxSwift (= 6.1.0)
 
 DEPENDENCIES:
-  - AttachmentInput (= 0.0.4)
-  - Nimble (= 9.0.0)
-  - Quick (= 3.1.2)
-  - RxTest (= 6.1.0)
+  - AttachmentInput
+  - Nimble
+  - Quick
+  - RxTest
 
 SPEC REPOS:
   trunk:
@@ -48,6 +48,6 @@ SPEC CHECKSUMS:
   RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
   RxTest: 9d26616eaff4a7e75f4ecae9b2c24840f2e8218d
 
-PODFILE CHECKSUM: 8b242213a36e575a5549f9ad232a5e799826cd0b
+PODFILE CHECKSUM: eea28d1d61aa0226eedf6c12b32ac187b18aa248
 
 COCOAPODS: 1.10.1
